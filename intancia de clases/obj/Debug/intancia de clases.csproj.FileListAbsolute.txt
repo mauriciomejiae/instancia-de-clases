@@ -1,0 +1,5 @@
+C:\Users\Mauricio M\Downloads\intancia de clases\intancia de clases\bin\Debug\intancia de clases.exe.config
+C:\Users\Mauricio M\Downloads\intancia de clases\intancia de clases\bin\Debug\intancia de clases.exe
+C:\Users\Mauricio M\Downloads\intancia de clases\intancia de clases\bin\Debug\intancia de clases.pdb
+C:\Users\Mauricio M\Downloads\intancia de clases\intancia de clases\obj\Debug\intancia de clases.exe
+C:\Users\Mauricio M\Downloads\intancia de clases\intancia de clases\obj\Debug\intancia de clases.pdb
